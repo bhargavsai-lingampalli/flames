@@ -15,4 +15,10 @@ For example, if you are left with letter L, then you and your partner had love f
 ### What is this Repository?
 - *A C program to do all the above steps for you.*
 
+## License
+
+[![MIT License](https://img.shields.io/badge/Licence%20-MIT-brightgreen)](https://github.com/BhargavSai-Lingampalli/flames/blob/main/LICENCE)
+
+
+
 ***Thanks for watching.***
