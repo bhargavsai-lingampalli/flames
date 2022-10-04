@@ -17,7 +17,7 @@ For example, if you are left with letter L, then you and your partner had love f
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/Licence%20-MIT-brightgreen)](https://github.com/BhargavSai-Lingampalli/flames/blob/main/LICENCE)
+[![MIT License](https://img.shields.io/badge/Licence%20-MIT-brightgreen)](https://github.com/BhargavSai-Lingampalli/flames/blob/main/licence)
 
 
 
