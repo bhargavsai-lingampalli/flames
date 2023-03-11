@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<strings.h>
+#include<string.h>
 void uniform(char a[],int size);
 int main()
 {
